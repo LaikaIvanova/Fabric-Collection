@@ -1,0 +1,45 @@
+Version 1.0.0-1.21.4 Patch Notes:
+- added [EMF] Entity Model Features
+- added [ETF] Entity Texture Features
+- added 3D Skin Layers
+- added Accelerated Decay
+- added AppleSkin
+- added Architectury API
+- added Better Advancements
+- added Better Third Person
+- added BetterF3
+- added Chat Heads
+- added Cloth Config API
+- added Concurrent Chunk Management Engine (Fabric)
+- added Continuity
+- added Dark Loading Screen
+- added Detail Armor Bar
+- added Durability Tooltip
+- added Entity Culling
+- added Extended Drawers
+- added Fabric API
+- added Falling Leaves
+- added Female Gender Mod
+- added FerriteCore
+- added First-person Model
+- added Fresh Animations
+- added ImmediatelyFast
+- added Iris Shaders
+- added Jade
+- added JamLib
+- added JourneyMap
+- added Language Reload
+- added Lithium
+- added Mod Menu
+- added Model Gap Fix
+- added ModernFix
+- added More Culling
+- added Not Enough Animations
+- added RightClickHarvest
+- added Simple Voice Chat
+- added Sodium
+- added Sound Physics Remastered
+- added SuperMartijn642's Config Lib
+- added Text Placeholder API
+- added Trade Cycling
+- added XPlus Autofish(Fabric / Forge / NeoForge)
