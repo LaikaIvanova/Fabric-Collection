@@ -1,0 +1,12 @@
+Version 1.3.0-1.21.4 Patch Notes:
+- added Better Ping Display [Fabric]
+- added Villager Trading Plus
+- added Undopia 3D Doors
+- added Simple 3D Chain
+- added Undopia 3D Rails
+- added Just 3D
+- added Undopia 3D Chiseled Bookshelf
+- added Undopia 3D Bookshelf
+- added Mushrooms Plus
+- added Nature Revamp
+- added Storage Drawers
