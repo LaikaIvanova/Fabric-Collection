@@ -1,0 +1,18 @@
+Version 1.4.0-1.21.4 Patch Notes:
+- added Immersive UI
+- added ItemSwapper
+- added Polymod Translator
+- updated [ETF] Entity Texture Features
+- updated Chat Heads
+- updated Concurrent Chunk Management Engine (Fabric)
+- updated Fabric API
+- updated ImmediatelyFast
+- updated Jade 🔍
+- updated JourneyMap
+- updated Lithium
+- updated Mod Menu
+- updated ModernFix
+- updated More Culling
+- updated Not Enough Animations
+- updated RightClickHarvest
+- updated Text Placeholder API
